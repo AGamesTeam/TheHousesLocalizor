@@ -10,5 +10,8 @@
   "Pickles": "Hapukurgid",
   "Potatoes": "Kartulid",
   "Salt": "Sool",
-  "Spices": "Vürtsid"
+  "Spices": "Vürtsid",
+  "hint1": "#1 Alusta {ingredient1} lisamisega",
+  "hint2": "#2 {ingredient2} enne {ingredient3}",
+  "hint3": "#3 Lõpeta {ingredient4} lisamisega"
 }

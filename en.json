@@ -10,5 +10,8 @@
   "Pickles": "Pickles",
   "Potatoes": "Potatoes",
   "Salt": "Salt",
-  "Spices": "Spices"
+  "Spices": "Spices",
+  "hint1": "#1 Start with some {ingredient1}",
+  "hint2": "#2 {ingredient2} before {ingredient3}",
+  "hint3": "#3 Finish with {ingredient4}"
 }
